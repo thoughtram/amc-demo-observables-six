@@ -1,0 +1,9 @@
+{
+  "name": "typescript-1p9kby",
+  "description": "",
+  "homepage": "https://stackblitz.com/edit/typescript-1p9kby",
+  "dependencies": {
+    "rxjs": "6.2.1"
+  },
+  "version": "1.0.0"
+}
